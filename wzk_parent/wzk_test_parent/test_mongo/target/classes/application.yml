@@ -1,0 +1,6 @@
+server:
+  port: 8088 #服务端口
+spring:
+  data:
+    mongodb:
+      uri:  mongodb://localhost:27017/demo
